@@ -1,2 +1,4 @@
 # Array-item-removal
-Removing the first array item using .shift() method 
+ 
+var array = [1, 2, 3, 4];
+array.shift();
